@@ -1,8 +1,6 @@
 @article{REPO262,
     author = "Zhang, Junjie and Ye, Minghao and Guo, Zehua and Yen, Chen-Yu and Chao, H. Jonathan",
-    doi = "10.1109/JSAC.2020.3000371",
     journal = "IEEE Journal on Selected Areas in Communications",
-    keywords = "Routing;Heuristic algorithms;Linear programming;Control systems;Optimization;Reinforcement learning;Quality of service;Reinforcement learning;software-defined networking;traffic engineering;load balancing;network disturbance mitigation",
     number = "10",
     pages = "2249-2259",
     title = "{CFR-RL: Traffic Engineering With Reinforcement Learning in SDN}",
